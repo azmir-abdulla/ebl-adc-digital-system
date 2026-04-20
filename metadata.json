@@ -1,0 +1,13 @@
+{
+  "name": "EBL ADC Management System",
+  "description": "Unified platform for Eastern Bank Limited (EBL) ATM Depository and Custodian (ADC) operations, including cash replenishment, asset tracking, and mobile custodian management.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "ADC Head Oversite",
+    "ADC Centre Operations",
+    "Custodian Mobile App"
+  ]
+}
